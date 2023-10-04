@@ -18,3 +18,5 @@ copy_files.sh
 
 *.pyc
 .DS_Store
+*.csv
+*.ckpt*

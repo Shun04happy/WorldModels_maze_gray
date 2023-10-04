@@ -1,0 +1,2 @@
+model_checkpoint_path: "weights_custom3dmaze_gray2z32k3conv1g5h256.100.100.100.ckpt"
+all_model_checkpoint_paths: "weights_custom3dmaze_gray2z32k3conv1g5h256.100.100.100.ckpt"
